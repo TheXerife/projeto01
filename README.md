@@ -1,5 +1,5 @@
 # 🧠 Servidor de Assistência Inteligente em Rede
-Projeto desenvolvido por **Gustavo Luiz Xavier Calil**
+Projeto desenvolvido por **Gustavo Luiz Xavier Calil** -
 Trabalho Avaliativo Tópicos Especiais - Projeto 01
 
 
